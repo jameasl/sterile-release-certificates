@@ -1,0 +1,13 @@
+{
+	"certificates": [
+		{
+			"title": "اتاق استریل 1",
+			"fromDate": "1398/11/1",
+			"toDate": "1398/11/10",
+			"fromHour": "12:00",
+			"toHour": "16:00",
+			"status": "بررسی شده",
+			"releaseCounts": "500/800"
+		}	
+	]
+}
