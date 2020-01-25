@@ -9,6 +9,15 @@
 			"toHour": "16:00",
 			"status": "بررسی شده",
 			"releaseCounts": "500/800"
-		}	
+		}
+	],
+	"waresStatus": [
+		{
+			"title": "صافی",
+			"code": "1213",
+			"lot No": "80024",
+			"count": "600",
+			"status": "تائید شده"
+		}
 	]
 }
